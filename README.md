@@ -12,9 +12,12 @@
 
 ## Code - *TODO*
 
+Collected by [*Lelouch*]:
+1. https://github.com/carpedm20/DCGAN-tensorflow
+
 ## Data Set - *TODO*
 
-Collected by [*szrlee*](https://github.com/szrlee)
+Collected by [*szrlee*](https://github.com/szrlee):
 
 Collected by [*Lelouch*](https://github.com/Lelouch5023):
 1. https://vision.cornell.edu/se3/coco-text-2/
