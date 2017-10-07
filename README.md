@@ -15,3 +15,6 @@
 ## Data Set - *TODO*
 
 Collected by [*szrlee*](https://github.com/szrlee)
+
+Collected by [*Lelouch*](https://github.com/Lelouch5023):
+1. https://vision.cornell.edu/se3/coco-text-2/
