@@ -12,7 +12,7 @@
 
 ## Code - *TODO*
 
-Collected by [*Lelouch*]:
+Collected by [*Lelouch*](https://github.com/Lelouch5023):
 1. https://github.com/carpedm20/DCGAN-tensorflow
 
 ## Data Set - *TODO*
